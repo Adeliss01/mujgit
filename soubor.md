@@ -1,2 +1,1 @@
-Text testovacího souboru
-ahoj
+Nový text
